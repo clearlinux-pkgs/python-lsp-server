@@ -4,7 +4,7 @@
 #
 Name     : python-lsp-server
 Version  : 1.0.1
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/1a/ea/aabfbcf2c615e6297d5b0f895263702282abc8582dea58fbc93e9f8144f4/python-lsp-server-1.0.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1a/ea/aabfbcf2c615e6297d5b0f895263702282abc8582dea58fbc93e9f8144f4/python-lsp-server-1.0.1.tar.gz
 Summary  : Python Language Server for the Language Server Protocol
@@ -74,6 +74,8 @@ python components for the python-lsp-server package.
 Summary: python3 components for the python-lsp-server package.
 Group: Default
 Requires: python3-core
+Provides: pypi(python_lsp_server)
+Requires: pypi(python_lsp_jsonrpc)
 
 %description python3
 python3 components for the python-lsp-server package.
