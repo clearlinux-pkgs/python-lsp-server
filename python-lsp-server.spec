@@ -4,7 +4,7 @@
 #
 Name     : python-lsp-server
 Version  : 1.3.3
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/7a/67/5789a8280ffa9e29c38e1456effa4af9e3d85058c9aba93a2c4222f52557/python-lsp-server-1.3.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7a/67/5789a8280ffa9e29c38e1456effa4af9e3d85058c9aba93a2c4222f52557/python-lsp-server-1.3.3.tar.gz
 Summary  : Python Language Server for the Language Server Protocol
